@@ -1,5 +1,4 @@
 # discord_twitter_trending
-# discord_twitter_trending
 
 Purpose: <br/>
 Creates a discord bot that posts a list trending hashtags from the twitter api for a specified location automatically to a discord channel. <br/>
