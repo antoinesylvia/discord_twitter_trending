@@ -4,6 +4,7 @@ Purpose: <br/>
 Creates a discord bot that posts a list trending hashtags from the twitter api for a specified location automatically to a discord channel. <br/>
 
 Requirements for auth config file:
+
 DISCORD_TOKEN: https://discord.com/developers/applications, create an app the on left side you will see "bot". Click this and reveal the token, post here.
 TWITTER_API_KEY: https://developer.twitter.com 
 TWITTER_API_SECRET_KEY: https://developer.twitter.com
